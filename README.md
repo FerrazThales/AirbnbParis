@@ -10,8 +10,8 @@ Uma breve descrição do meu projeto, que eu fiz com muito cuidado e atenção a
 
 **Links para me acharem:**
 * [Artigo meu desse projeto no Medium](https://medium.com/@rafaelnduarte)
-* [LinkedIn](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Portfólio Completo](https://www.linkedin.com/in/rafael-n-duarte/)
+* [LinkedIn](https://www.linkedin.com/in/thalesdefreitasferraz/)
+* [Portfólio Completo](https://github.com/FerrazThales)
 
 
 
