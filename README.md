@@ -18,6 +18,6 @@ Uma breve descrição do meu projeto, que eu fiz com muito cuidado e atenção a
 
 ## Outros Projetos Meus:
 
-* **[Image Classification using Convolutional Neural Networks](https://bit.ly/3cdckqJ)**
+* **[A Inteligência Artificial e a Segurança Pública](https://thalesferraz.medium.com/a-intelig%C3%AAncia-artificial-e-a-seguran%C3%A7a-p%C3%BAblica-495a2e4efcf5)**
 
 
