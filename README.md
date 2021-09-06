@@ -8,6 +8,10 @@ A olimpíada de 2024 promete ser a mais ecológica da história. O comitê organ
 
 Dessa forma, a plataforma do Airbnb surge como uma grande opção para os amantes dos jogos olímpicos.
 
+E como a análise de dados podem nos ajudar a tomar as decisões?
+
+Neste dataset, eu exploro as alternativas de escolha na Cidade de Paris.
+
 
 
 **Links para me acharem:**
