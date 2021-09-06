@@ -10,8 +10,7 @@ Dessa forma, a plataforma do Airbnb surge como uma grande opção para os amante
 
 E como a análise de dados podem nos ajudar a tomar as decisões?
 
-Neste dataset, eu exploro as alternativas de escolha na Cidade de Paris.
-
+Neste dataset, eu exploro as alternativas de escolha na Cidade de Paris. Avaliando preços, melhores bairros e quantidade de noites médias mínimas necessesárias para conseguir locar um imóvel nesta cidade.
 
 
 **Links para me acharem:**
