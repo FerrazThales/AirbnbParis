@@ -12,6 +12,8 @@ E como a análise de dados podem nos ajudar a tomar as decisões?
 
 Neste dataset, eu exploro as alternativas de escolha na Cidade de Paris. Avaliando preços, melhores bairros e quantidade de noites médias mínimas necessesárias para conseguir locar um imóvel nesta cidade.
 
+Se está curioso para saber mais sobre esta cidade e como o Airbnb funciona por lá, dá uma conferida no [Análise de Dados do Airbnb de Paris](https://github.com/FerrazThales/AirbnbParis/blob/main/Analisando_os_Dados_do_Airbnb_da_cidade_de_Paris.ipynb)
+
 
 **Links para me acharem:**
 * [Artigo meu desse projeto no Medium](https://thalesferraz.medium.com/an%C3%A1lise-dos-dados-do-airbnb-de-paris-337238b3e4c3)
