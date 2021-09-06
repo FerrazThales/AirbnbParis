@@ -4,7 +4,10 @@
 
 ##  Análise de Dados do Airbnb de Paris
 
-Uma breve descrição do meu projeto, que eu fiz com muito cuidado e atenção aos detalhes, chamando as pessoas para que entrem no meu notebook.
+A olimpíada de 2024 promete ser a mais ecológica da história. O comitê organizador pretende reutilizar a maior parcela de espaço possível e construir apenas instalações temporárias.
+
+Dessa forma, a plataforma do Airbnb surge como uma grande opção para os amantes dos jogos olímpicos.
+
 
 
 **Links para me acharem:**
